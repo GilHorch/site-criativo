@@ -1,6 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .cabecalho {
-color: black;
-background-color: rgb(134, 238, 238);
-display: flex;
-justify-content: space-around;
+    background-color: rgb(134, 238, 238);
+    /*cor de fundodo cabeçalho*/
+    color: black;
+    /*cor da fonte*/
+    display: flex;
+    /*flex box*/
+    justify-content: space-around;
+    /*adiciona um espaço ao redor de todos os elementos*/
+    align-items: center;
+    /*centraliza os itens na horizontal*/
+    padding: 24px;
+    /*espaçamento interno na vertical*/
+    margin: 24px;
+    ;
+    /*espaçamento externo na vertical*/
+}
+
+.item-cabecalho {
+
+    display: inline-block;
+    /*coloca ites da lista em linha*/
+    margin: 0 16px;
+    /* coloca margem 0 na vertical e 16px na horizontal*/
 }
