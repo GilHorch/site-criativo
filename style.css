@@ -14,8 +14,8 @@
     /*adiciona um espaço ao redor de todos os elementos*/
     align-items: center;
     /*centraliza os itens na horizontal*/
-    padding: 24px;
-    /*espaçamento interno  na vertical*/
+    padding: 24px 0px;
+    /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
 
 }
 
@@ -23,6 +23,6 @@
 
     display: inline-block;
     /*coloca ites da lista em linha*/
-    margin: 0 16px;
+    margin: 0px 16px;
     /* coloca margem externa 0 na vertical e 16px na horizontal*/
 }
