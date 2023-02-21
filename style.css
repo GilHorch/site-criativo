@@ -55,6 +55,8 @@
 .titulo-escola {
     padding: 20px 20px;
     /*espaçamento interno  na vertical de 20px e 20px na horizontal*/
+    font-size: 16px;
+    font: bold;
 }
 .texto-escola {
     text-align: justify;
