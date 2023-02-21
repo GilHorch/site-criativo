@@ -52,12 +52,16 @@
     padding: 24px 24px;
     /*espaçamento interno  na vertical de 24px e 24px na horizontal*/
 }
+
 .titulo-escola {
     padding: 20px 20px;
     /*espaçamento interno  na vertical de 20px e 20px na horizontal*/
     font-size: 16px;
-    font: bold;
+    /*tamanho da fonte em 16px*/
+    font-weight: bold;
+    /*deixa a fonte em negrito*/
 }
+
 .texto-escola {
     text-align: justify;
     /*justifica o texto*/
@@ -67,4 +71,3 @@
     width: 30%;
     /*ajusta o tamanho da imagem*/
 }
-
