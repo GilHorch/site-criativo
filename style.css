@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    /*alrtera as fontes do documento*/
+    /*altera as fontes do documento*/
 
 }
 
@@ -75,9 +75,19 @@ body {
     width: 30%;
     /*ajusta o tamanho da imagem*/
 }
-.rodape{
-width: 20%;
-background-color: rgb(43, 99, 80);
-padding: 24px 0px;
 
+.rodape {
+    width: 20%;
+    background-color: rgb(43, 99, 80);
+    /*cor do plano de fundo do rodapé*/
+    color: antiquewhite;
+    /*cor da fonte do rodapé*/
+    padding: 24px 0px;
+    /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
+
+}
+
+.rede-social {
+    width: 24px;
+    /*tamanho dos icones da rede social no rodapé*/
 }
