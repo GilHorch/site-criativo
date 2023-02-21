@@ -19,7 +19,7 @@
 
 }
 .img-cabecalho{
-    width: 30%;
+    width: 10%;/*ajusta o tamanho da imagem*/
 }
 
 .item-cabecalho {
@@ -46,12 +46,12 @@
 }
 
 .conteudo-escola {
-    width: 40%;
+    width: 0%;
     padding: 24px 24px;/*espaçamento interno  na vertical de 24px e 24px na horizontal*/
 }
 
 .img-escola{
-    width: 30%;
+    width: 30%;/*ajusta o tamanho da imagem*/
 }
 
 .titulo-escola {
