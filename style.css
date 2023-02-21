@@ -30,4 +30,7 @@
 .escola{
     background-image: linear-gradient(#fae9e9,#3fcaec);
     color: black;
+    display: flex;
+    justify-content: space-around;
+    
 }
