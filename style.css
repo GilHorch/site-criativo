@@ -29,6 +29,8 @@
 
 .escola {
     width: 40%;
+    height: 40%;
+
     background-image: linear-gradient(#fae9e9, #3fcaec);
     /*coloca um fundo com gradiente linear*/
     color: black;
