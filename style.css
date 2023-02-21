@@ -10,7 +10,7 @@ body {
 }
 
 .cabecalho {
-    background-color: rgb(134, 238, 238);
+    background-color: rgb(43, 99, 80);
     /*cor de fundodo cabeçalho*/
     color: black;
     /*cor da fonte*/
@@ -34,7 +34,7 @@ body {
 }
 
 .img-cabecalho {
-    width: 15%;
+    width: 10%;
     /*ajusta o tamanho da imagem*/
 }
 
