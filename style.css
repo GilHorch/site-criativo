@@ -98,4 +98,5 @@ body {
 .rede-social {
     width: 24px;
     /*tamanho dos icones da rede social no rodapé*/
+    padding: auto;
 }
