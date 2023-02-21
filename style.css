@@ -37,8 +37,6 @@
     /*coloca um fundo com gradiente linear*/
     color: black;
     /*cor da fonte*/
-    text-align: justify;
-    /*justifica o texto*/
     display: flex;
     /*adiciona a flex box*/
     justify-content: center;
@@ -50,6 +48,8 @@
 }
 
 .conteudo-escola {
+    text-align: justify;
+    /*justifica o texto*/
     width: 40%;
     padding: 24px 24px;
     /*espaçamento interno  na vertical de 24px e 24px na horizontal*/
