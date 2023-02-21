@@ -27,10 +27,14 @@
     /* coloca margem externa 0 na vertical e 16px na horizontal*/
 }
 
-.escola{
-    background-image: linear-gradient(#fae9e9,#3fcaec);
+.escola {
+    background-image: linear-gradient(#fae9e9, #3fcaec);
+    /*coloca um fundo com gradiente linear*/
     color: black;
+    /*cor da fonte*/
     display: flex;
-    justify-content: space-around;
-    
+    /*adiciona a flex box*/
+    justify-content: center;
+    /*adiciona um espaço ao redor de todos os elementos*/
+
 }
