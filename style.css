@@ -37,6 +37,8 @@
     /*coloca um fundo com gradiente linear*/
     color: black;
     /*cor da fonte*/
+    text-align: justify;
+    /*justifica o texto*/
     display: flex;
     /*adiciona a flex box*/
     justify-content: center;
