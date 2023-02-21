@@ -87,6 +87,14 @@ body {
 
 }
 
+.rodape {
+    display: flex;
+    /*fex box*/
+    justify-content: space-around;
+    /*adiciona um espaço ao redor de todos os elementos*/
+
+}
+
 .icone-rede-social {
     display: flex;
     /*fex box*/
