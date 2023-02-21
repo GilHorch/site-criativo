@@ -76,13 +76,15 @@ body {
     /*ajusta o tamanho da imagem*/
 }
 
-.midias-sociais{
+.midias-sociais {
     padding: 10px;
+    /*espaçamento interno  na vertical de 10px e 0px na horizontal*/
     text-align: center;
+    /*alinha o texto ao centro*/
 }
 
 .rodape {
-    width:auto;
+    width: auto;
     background-color: rgb(43, 99, 80);
     /*cor do plano de fundo do rodapé*/
     color: antiquewhite;
