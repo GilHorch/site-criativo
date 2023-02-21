@@ -18,9 +18,6 @@
     /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
 
 }
-.img-cabecalho{
-    width: 10%;/*ajusta o tamanho da imagem*/
-}
 
 .item-cabecalho {
 
@@ -28,6 +25,11 @@
     /*coloca ites da lista em linha*/
     margin: 0px 16px;
     /* coloca margem externa 0 na vertical e 16px na horizontal*/
+}
+
+.img-cabecalho {
+    width: 15%;
+    /*ajusta o tamanho da imagem*/
 }
 
 .escola {
@@ -47,11 +49,13 @@
 
 .conteudo-escola {
     width: 40%;
-    padding: 24px 24px;/*espaçamento interno  na vertical de 24px e 24px na horizontal*/
+    padding: 24px 24px;
+    /*espaçamento interno  na vertical de 24px e 24px na horizontal*/
 }
 
-.img-escola{
-    width: 30%;/*ajusta o tamanho da imagem*/
+.img-escola {
+    width: 30%;
+    /*ajusta o tamanho da imagem*/
 }
 
 .titulo-escola {
