@@ -26,3 +26,8 @@
     margin: 0px 16px;
     /* coloca margem externa 0 na vertical e 16px na horizontal*/
 }
+
+.escola{
+    background-image: linear-gradient(#fae9e9,#3fcaec);
+    color: black;
+}
