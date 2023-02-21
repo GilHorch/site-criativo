@@ -86,7 +86,11 @@ body {
     /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
 
 }
+icone-rede-social{
+display: flex;
+justify-content: space-around;
 
+}
 .rede-social {
     width: 24px;
     /*tamanho dos icones da rede social no rodapé*/
