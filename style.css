@@ -76,6 +76,12 @@ body {
     /*ajusta o tamanho da imagem*/
 }
 
+.midias-sociais{
+
+    padding: 10px;
+    align-items: center;
+}
+
 .rodape {
     width:auto;
     background-color: rgb(43, 99, 80);
