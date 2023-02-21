@@ -35,6 +35,11 @@
     display: flex;
     /*adiciona a flex box*/
     justify-content: center;
-    /*adiciona um espaço ao redor de todos os elementos*/
+    /*centraliza todos os elementos*/
+    align-items: center;
 
-}
+    .conteudo-escola {
+        width: 40%;
+
+
+    }
