@@ -52,7 +52,10 @@
     padding: 24px 24px;
     /*espaçamento interno  na vertical de 24px e 24px na horizontal*/
 }
-
+.titulo-escola {
+    padding: 20px 20px;
+    /*espaçamento interno  na vertical de 20px e 20px na horizontal*/
+}
 .texto-escola {
     text-align: justify;
     /*justifica o texto*/
@@ -63,7 +66,3 @@
     /*ajusta o tamanho da imagem*/
 }
 
-.titulo-escola {
-    padding: 24px 0px;
-    /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
-}
