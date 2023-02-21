@@ -3,6 +3,12 @@
     padding: 0px;
 }
 
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    /*alrtera as fontes do documento*/
+
+}
+
 .cabecalho {
     background-color: rgb(134, 238, 238);
     /*cor de fundodo cabeçalho*/
@@ -58,7 +64,7 @@
     /*espaçamento interno  na vertical de 20px e 20px na horizontal*/
     font-size: 16px;
     /*tamanho da fonte em 16px*/
-   }
+}
 
 .texto-escola {
     text-align: justify;
