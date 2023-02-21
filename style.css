@@ -18,6 +18,9 @@
     /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
 
 }
+.img-cabecalho{
+    width: 30%;
+}
 
 .item-cabecalho {
 
@@ -47,7 +50,7 @@
     padding: 24px 24px;/*espaçamento interno  na vertical de 24px e 24px na horizontal*/
 }
 
-.imagem-escola{
+.img-escola{
     width: 40%;
 }
 
