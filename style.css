@@ -48,11 +48,14 @@
 }
 
 .conteudo-escola {
-    text-align: justify;
-    /*justifica o texto*/
     width: 40%;
     padding: 24px 24px;
     /*espaçamento interno  na vertical de 24px e 24px na horizontal*/
+}
+
+.texto-escola {
+    text-align: justify;
+    /*justifica o texto*/
 }
 
 .img-escola {
