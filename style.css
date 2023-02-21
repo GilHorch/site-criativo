@@ -75,3 +75,9 @@ body {
     width: 30%;
     /*ajusta o tamanho da imagem*/
 }
+.rodape{
+width: 20%;
+background-color: rgb(43, 99, 80);
+padding: 24px 0px;
+
+}
