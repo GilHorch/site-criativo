@@ -37,9 +37,14 @@
     justify-content: center;
     /*centraliza todos os elementos*/
     align-items: center;
+    /*alinha os itens ao centro*/
+    padding: 24px 0px;
+    /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
+}
 
-    .conteudo-escola {
-        width: 40%;
-
-
-    }
+.conteudo-escola {
+    width: 40%;
+}
+.titulo-escola{
+    padding: 24px 0px;
+}
