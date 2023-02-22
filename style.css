@@ -82,7 +82,10 @@ body {
     text-align: center;
     /*alinha o texto ao centro*/
 }
+.ideias{
+width: 24px;
 
+}
 .rodape {
     width: auto;
     background-color: rgb(43, 99, 80);
