@@ -94,10 +94,6 @@ width: 24px;
     /*cor da fonte do rodapé*/
     padding: 24px 0px;
     /*espaçamento interno  na vertical de 24px e 0px na horizontal*/
-
-}
-
-.rodape {
     display: flex;
     /*fex box*/
     justify-content: space-around;
