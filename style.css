@@ -10,6 +10,8 @@ body {
 }
 
 .cabecalho {
+    width: auto;
+    /*coloca em auto a largura do cabeçalho*/
     background-color: rgb(43, 99, 80);
     /*cor de fundodo cabeçalho*/
     color: black;
