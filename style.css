@@ -95,6 +95,13 @@ body {
     justify-content: space-around;
     /*adiciona um espaço ao redor de todos os elementos*/
 }
+.img-ideias{
+width: auto;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+}
 
 .ideias {
 
