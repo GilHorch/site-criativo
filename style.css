@@ -82,6 +82,14 @@ body {
     /*espaçamento interno  na vertical de 10px e 0px na horizontal*/
     text-align: center;
     /*alinha o texto ao centro*/
+    display: flex;
+    /*flex box*/
+    flex-direction: column;
+    /*alinha os elementos em ccoluna*/
+    align-items: center;
+    /*distribui os elementos ao centro*/
+    justify-content: space-around;
+    /*adiciona um espaço ao redor de todos os elementos*/
 }
 
 .ideias {
